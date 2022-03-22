@@ -1,5 +1,4 @@
 # This program prints Hello, world!
 
-print('MESSI is the GOAT')
 print('Barcelona will rise from the ashes')
 print('Jai Shree Ram')
